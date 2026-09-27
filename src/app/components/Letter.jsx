@@ -14,7 +14,7 @@ export default function Letter() {
     // 🎵 Music (Fixed: Removed TypeScript syntax)
     const audioRef = useRef(null)
 
-    const letterText = `My Dearest Madam Jii,
+    const letterText = `Madam Jii,
 
 Happy Birthday ❤️
 Pata nahi kyun, par tumhe bhoolna mere liye abhi bhi itna easy nahi hua. Shayad waqt ke saath sab theek ho jayega, lekin aaj tumhara birthday hai toh dil ne kaha ki tumhe wish zaroor karun.
